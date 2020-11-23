@@ -1,4 +1,8 @@
 # OOP2_Kelompok
 NIM : 18090015
 NAMA : MAFTUCHATI
-KELAS : 5B 
+KELAS : 5B
+<br>
+NIM : 19092001
+NAMA : Ighfar Nazar S
+KELAS : 5B
